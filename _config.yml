@@ -19,7 +19,7 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: JONNY's NOTE                         # the main title
+title: JONNY                      # the main title
 
 tagline: Aerospace Engineering, Control System, Robot Operating System   # it will display as the sub-title
 
