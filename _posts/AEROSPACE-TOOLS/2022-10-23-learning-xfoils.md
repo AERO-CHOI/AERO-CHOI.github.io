@@ -7,6 +7,7 @@ tags: [xfoils]
 pin : false
 math: true
 mermaid: true
+comments: true
 image:
   path: /commons/devices-mockup.png
   width: 800
@@ -14,4 +15,4 @@ image:
   alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 
-
+Hello
