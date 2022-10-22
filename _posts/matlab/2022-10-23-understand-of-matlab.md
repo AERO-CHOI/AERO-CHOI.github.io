@@ -16,4 +16,3 @@ image:
 
 
 ## Matlab의 이해
-

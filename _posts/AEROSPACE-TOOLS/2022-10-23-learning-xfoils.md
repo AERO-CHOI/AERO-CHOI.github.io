@@ -7,7 +7,6 @@ tags: [xfoils]
 pin : false
 math: true
 mermaid: true
-comments: true
 image:
   path: /commons/devices-mockup.png
   width: 800
