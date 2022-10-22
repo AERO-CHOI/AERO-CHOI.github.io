@@ -93,8 +93,8 @@ comments:
     shortname:    # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
-    repo: AREC-CHOI/blog-comments        # <gh-username>/<repo>
-    issue_term: pathname # < url | pathname | title | ...>
+    repo: 'AREC-CHOI/blog-comments'        # <gh-username>/<repo>
+    issue_term: 'pathname' # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
     repo:              # <gh-username>/<repo>
